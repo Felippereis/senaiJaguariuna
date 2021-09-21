@@ -1,0 +1,11 @@
+1	Jacarezinho	PR
+2	Amparo	SP
+3	Americana	SP
+4	Pedreira	SP
+5	Curitiba	PR
+6	Londrina	PR
+7	Belo Horizonte	MG
+8	Campinas	SP
+9	Pouso Alegre	MG
+10	Monte Verde	MG
+11	Jaguari??na	SP
