@@ -1,0 +1,27 @@
+Id_Cliente;Nome;Endere�o;Telefone;Id_Pedido;Lanches;Bebidas;Data;Horario Pedido;Horario enviado;Hora Finalizado
+1;Umberto Alves;Paça Ivone Souza, Jardim São Paulo, Jaguariúna, SP;19 3893-8484;1;X-Frango;;27/09/2021;07:59;07:59;07:59
+2;Raissa Alves Martim;Paça Ivone Souza, Jardim Brasil, Americana, SP;20 3893-8484;2;;Refrigerante - 2L;27/09/2021;07:59;07:59;07:59
+3;Eva Teixeira;Rua Brito de Souza, Jardim Brasil, Nova Odessa, SP;21 3893-8484;3;X-Bacon;;27/09/2021;07:59;07:59;07:59
+4;Yago Bispo Mattos;Rua Xailo Souza, Jardim São Paulo, Americana, SP;22 3893-8484;4;;Refrigerante - 2L;27/09/2021;07:59;07:59;07:59
+5;Zuim Bispo da Silva;Rua Pedro Martim, Parque das Flores, Amparo, SP;23 3893-8484;5;X-Bacon;;27/09/2021;07:59;07:59;07:59
+6;Eva Custódio;Rua do açúcar, Jardim Brasil, Jaguariúna, SP;24 3893-8484;6;X-Egg;;27/09/2021;07:59;07:59;07:59
+7;Valéria Martim Neto;Rua Brito de Souza, Parque das Flores, Pedreira, SP;25 3893-8484;7;X-Egg;;27/09/2021;07:59;07:59;07:59
+8;Eva de Oliveira;Paça Ivone Souza, Parque das Flores, Pedreira, SP;26 3893-8484;8;X-Frango;;27/09/2021;07:59;07:59;07:59
+9;Willian Martins da Silva;Av. Paulista, Jardim Brasil, Pedreira, SP;27 3893-8484;9;;Refrigerante - Lata;27/09/2021;07:59;07:59;07:59
+10;Valter Sobrinho;Av. XV de Novembro, Centro, Amparo, SP;28 3893-8484;10;X-Frango;;27/09/2021;07:59;07:59;07:59
+11;Luciana Martim Oliveira;Rua do Mel, Centro, Americana, SP;29 3893-8484;11;;Refrigerante - 2L;27/09/2021;07:59;07:59;07:59
+12;João de Oliveira Teixeira;Rua do açúcar, Jardim São Paulo, Campinas, SP;30 3893-8484;12;;Refrigerante - Lata;27/09/2021;07:59;07:59;07:59
+13;Willian Bispo;Paça Ivone Souza, Centro, Pedreira, SP;31 3893-8484;13;X-Tudo;;27/09/2021;07:59;07:59;07:59
+14;Kleiton Oliveira;Praça dos Trabalhadores, Centro, Nova Odessa, SP;32 3893-8484;14;;Refrigerante - 2L;27/09/2021;07:59;07:59;07:59
+15;Paula Martins;Rua Brito de Souza, Jardim São Paulo, Amparo, SP;33 3893-8484;15;X-Tudo;;27/09/2021;07:59;07:59;07:59
+16;Carla Mattos Matos;Rua das Flores, Jardim São Paulo, Nova Odessa, SP;34 3893-8484;16;X-Frango;;27/09/2021;07:59;07:59;07:59
+17;Sara Bispo;Av. Paulista, Parque das Flores, Jaguariúna, SP;35 3893-8484;17;;Refrigerante - Lata;27/09/2021;07:59;07:59;07:59
+18;Tatiane Sobrinho;Rua do Mel, Jardim Brasil, Nova Odessa, SP;36 3893-8484;18;X-Egg;;27/09/2021;07:59;07:59;07:59
+19;Antônio Alves Mattos;Rua das Rosas, Jardim São Paulo, Jaguariúna, SP;37 3893-8484;19;X-Burguer;;27/09/2021;07:59;07:59;07:59
+20;Brito Mattos de Souza;Rua das Flores, Jardim Brasil, Americana, SP;38 3893-8484;20;X-Burguer;;27/09/2021;07:59;07:59;07:59
+21;Maria Neto Júnior;Praça Antônio Silva Sobrinho, Jardim Brasil, Jaguariúna, SP;39 3893-8484;21;X-Egg;;27/09/2021;07:59;07:59;07:59
+22;Raul Sobrinho;Praça dos Trabalhadores, Centro, Nova Odessa, SP;40 3893-8484;22;X-Burguer;;27/09/2021;07:59;07:59;08:00
+23;Ana Martins;Rua Valter Souza, Parque das Flores, Jaguariúna, SP;41 3893-8484;23;X-Frango;;27/09/2021;07:59;07:59;08:00
+24;Valéria Alves;Rua das Flores, Parque das Flores, Nova Odessa, SP;42 3893-8484;24;X-Bacon;;27/09/2021;07:59;07:59;08:00
+25;Yara Teixeira;Av. Brasil, Parque das Flores, Americana, SP;43 3893-8484;25;;Refrigerante - 2L;27/09/2021;07:59;07:59;08:00
+26;Ursula Bispo;Rua Pedro Silva Martins, Parque das Flores, Jaguariúna, SP;44 3893-8484;26;X-Bacon;;27/09/2021;07:59;07:59;08:00
