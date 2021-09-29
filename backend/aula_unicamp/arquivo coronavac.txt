@@ -1,0 +1,20 @@
+Scanner ler = new Scanner(System.in); // 2. instanciando e criando um objeto Scanner
+		
+				  
+		System.out.printf("Informe a quantidade de vacinas recebidas: ");
+		  receb = ler.nextInt(); // 3. entrada de dados (lendo um valor inteiro)
+		  
+		  System.out.printf("Informe o mes recebido : ");
+		  meses = ler.nextInt(); 
+
+		  System.out.printf("Informe a quantidade de pessoas vacinadas 1 dose: ");
+		  d1 = ler.nextInt(); // 3. entrada de dados (lendo um valor inteiro)
+		  
+		  System.out.printf("Informe a quantidade de pessoas vacinadas 2 dose: ");
+		  d2 = ler.nextInt(); // 3. entrada de dados (lendo um valor inteiro)
+		  
+
+
+
+80000 total recebidos
+
