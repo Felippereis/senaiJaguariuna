@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Avaliação Front End</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+
+        <div class="avisos">
+
+        <label for="">Selecione o tipo de aviso:</label>
+        <select name="aviso" id="aviso">
+            <option id="normal">Normal</option>
+            <option id="importante">Importante</option>
+            <option id="urgente">Urgente</option>
+        </select>
+        <label for=""> Digite o Aviso</label>
+        <textarea name="mural" id="texto" cols="30" rows="10">            
+        </textarea>
+        <label for="">Coloque o link da página</label>
+        <input type="text" name="link" id="link">
+
+        <button onclick="recados()" id="confirmar">Confirmar</button>
+
+        <div class="mural">
+           
+
+
+        </div>
+    </div>
+</div>
+</body>
+<script src="script.js"></script>
+</html>

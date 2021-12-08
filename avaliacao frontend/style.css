@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#link {
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+
+}
+
+#aviso{
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+}
+.container {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.avisos{
+    width: 100%;
+    height: 100%;
+    background-color: darkgrey;
+    border-radius: 15px;
+    margin-top: 5px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+.mural {
+    display: block;
+    margin-top: 15px;
+    border-radius: 15px;
+    margin-top: 5px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
